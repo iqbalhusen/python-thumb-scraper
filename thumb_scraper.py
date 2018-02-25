@@ -7,7 +7,7 @@ ENTRY_PAGE_URL = 'https://yolaw-tokeep-hiring-env.herokuapp.com'
 BASIC_AUTH_USERNAME = 'Thumb'
 BASIC_AUTH_PASSWORD = 'Scraper'
 
-with open('input_tampered.json') as f:
+with open('data/input_tampered.json') as f:
     input_data = json.load(f)
 
 
