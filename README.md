@@ -26,7 +26,18 @@ A *"Tom Thumb"* (*"Petit Poucet"*) web scraper for web pages built as part of Le
 ```bash
 (ve) $ python thumb_scraper.py
 Move to page 1
-ALERT - Can’t move to page 2: page 1 link has been malevolently tampered with!!
+Move to page 2
+Move to page 3
+Move to page 4
+Move to page 5
+Move to page 6
+Move to page 7
+Move to page 8
+Move to page 9
+Move to page 10
+Move to page 11
+Move to page 12
+ALERT - Can’t move to page 13: page 12 link has been malevolently tampered with!!
 (ve) $
 ```
 
